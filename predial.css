@@ -1,0 +1,26 @@
+h1 {
+    color: rgb(2, 2, 126);
+}
+
+.text-center {
+    text-align: center;
+    line-height: 3rem;
+    font-size: 25px;
+    background-color: rgb(189, 189, 189);
+    padding: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+p {
+    text-align: center;
+    line-height: 3rem;
+    font-size: 25px;
+    background-color: rgb(189, 189, 189);
+    padding: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
